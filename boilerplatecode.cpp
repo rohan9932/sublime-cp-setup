@@ -9,11 +9,4 @@ int main() {
 	freopen("output.txt", "w", stdout);
 	#endif
 
-
-	string a;
-	cin >> a;
-
-	cout << "Hello " << a << "\n";
-	
-	return 0;
 }
